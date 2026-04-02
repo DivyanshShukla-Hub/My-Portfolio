@@ -52,6 +52,13 @@ Works on:
 - Netlify
 - Vercel
 
+## Future Improvements
+- Add case-study modal for each project
+- Add custom OG image PNG export for social sharing
+- Add performance image optimization (WebP pipeline)
+- Add analytics dashboard
+
+
 ## Contact
 - Email: `divyanshshukla765@gmail.com`
 - GitHub: https://github.com/DivyanshShukla-Hub
