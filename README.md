@@ -21,3 +21,26 @@ This portfolio presents my work as an AI/ML Developer, including projects, certi
 - CSS3
 - Vanilla JavaScript
 - Modular structure (`components/`, `animations/`, `assets/`)
+
+## Projects Included
+- AI Content Safety
+- AI Article Summarizer
+- DocuSense AI
+- Personal Portfolio Website
+
+## Folder Structure
+- `index.html`
+- `style.css`
+- `script.js`
+- `components/terminal.js`
+- `components/chatbot.js`
+- `animations/particles.js`
+- `animations/scrollAnimations.js`
+- `animations/cursorEffects.js`
+- `assets/`
+
+## Run Locally
+1. Clone this repository
+2. Open the folder in VS Code
+3. Run with Live Server (`index.html`)
+4. Or open `index.html` directly in browser
