@@ -44,3 +44,17 @@ This portfolio presents my work as an AI/ML Developer, including projects, certi
 2. Open the folder in VS Code
 3. Run with Live Server (`index.html`)
 4. Or open `index.html` directly in browser
+
+
+## Deployment
+Works on:
+- GitHub Pages
+- Netlify
+- Vercel
+
+## Contact
+- Email: `divyanshshukla765@gmail.com`
+- GitHub: https://github.com/DivyanshShukla-Hub
+- LinkedIn: https://www.linkedin.com/in/divyansh-shukla-cuuniversity/
+- Instagram: https://www.instagram.com/divyansh.shukla.001/
+- X: https://x.com/divyansh_s78239
