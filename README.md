@@ -5,6 +5,7 @@ Premium personal portfolio website built with plain HTML, CSS, and JavaScript.
 ## About
 This portfolio presents my work as an AI/ML Developer, including projects, certifications, achievements, community work, and contact details.
 
+
 ## Live Features
 - Dark/Light mode toggle
 - Terminal mode (`~` shortcut + command suggestions)
