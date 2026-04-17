@@ -17,6 +17,7 @@ This portfolio presents my work as an AI/ML Developer, including projects, certi
 - Contact section with direct message form
 - Mobile responsive premium UI
 
+
 ## Tech Stack
 - HTML5
 - CSS3
